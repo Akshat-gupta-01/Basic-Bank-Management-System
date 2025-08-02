@@ -19,11 +19,8 @@ A simple command-line based **Bank Management System** built in **C++** that all
 
 ## 🛠️ Technologies Used
 
-- **Programming Language:** C++
-- **Core Concepts:** Classes & Objects, File Handling, OOP
-- **Tools/IDE:** Works with Code::Blocks, Dev C++, Turbo C++, or any C++ compiler
+- **Programming Language:** Python
+- **Core Concepts:** Tkinter, File Handling
 
----
 
-## 📂 Project Structure
 
