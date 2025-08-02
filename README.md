@@ -1,6 +1,6 @@
 # 🏦 Basic Bank Management System
 
-A simple command-line based **Bank Management System** built in **C++** that allows users to manage bank accounts using file handling. This project demonstrates basic concepts of Object-Oriented Programming and file operations in C++.
+A simple GUI based **Bank Management System** built in **Python** that allows users to manage bank accounts using file handling. This project demonstrates basic Banking operations using tkinter and file handling in Python.
 
 ---
 
